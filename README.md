@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Customer Sales Analysis and Forecasting using R
 
 This project provides a comprehensive approach to **data cleaning**, **exploratory data analysis (EDA)**, and **sales forecasting** using ARIMA models.
